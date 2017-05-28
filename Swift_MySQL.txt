@@ -1,0 +1,10 @@
+//Info
+Database: immersiv_swiftsql
+Username: immersiv_ussql
+Password: userssql123
+
+//Table Info
+Table: sqltable
+-sqltableId
+-sqltableName	
+-sqltableAge
